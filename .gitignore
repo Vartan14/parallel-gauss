@@ -1,0 +1,13 @@
+# Libraries
+.venv/
+.idea
+
+# Folders
+to_remove/
+graphics/
+data/
+generate_test_data/
+algorithm/parallel/processes/
+
+# Files
+algorithm/serial/list_gauss.py
